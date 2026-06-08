@@ -5,9 +5,9 @@ It is designed to turn hardware discussions into something fun to share with fri
 
 I'm learning computer science, CS50 precisely, and I think this is the best way for me to learn and improve my skills in the C programming language.
 
-This project is constantly evolving; any suggestions, feedback, roast ideas, hardware additions, and feature requests are always welcome.
+This project is constantly evolving; I welcome any suggestions, feedback, new roast ideas, feature requests, or hardware additions.
 
-#Features
+# Features
 
 The Features of RoastOS include:
 
@@ -22,7 +22,7 @@ Example Commands:
 roast_engine --start
 roast_engine --shutdown
 
-#Supported CPUs
+# Supported CPUs
 
 RoastOS v1.0 supports:
 
@@ -44,7 +44,7 @@ Ryzen 9 9950X
 Ryzen 9 9950X3D
 Intel Core Ultra 9 285K
 
-#Supported GPUs
+# Supported GPUs
 
 RoastOS v1.0 supports:
 
@@ -77,7 +77,7 @@ RTX 5080
 RX 7900 XTX
 RTX 5090
 
-#Supported RAM sizes
+# Supported RAM sizes
 
 RoastOS v1.0 supports:
 
@@ -92,7 +92,7 @@ RoastOS v1.0 supports:
 64GB
 128GB
 
-#Goal:
+# Goal:
 
 The goal of RoastOS is simple:
 
